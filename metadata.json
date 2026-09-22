@@ -1,0 +1,8 @@
+{
+  "name": "Easy Business Tech",
+  "description": "Boutique spécialisée dans la vente de smartphones et accessoires technologiques à Dakar, Sénégal. Produits neufs et garantis Apple, Samsung, Tecno, Xiaomi avec commande par WhatsApp et formulaire de contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
